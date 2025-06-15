@@ -44,18 +44,24 @@ Whether you're a teacher managing multiple classes or a student tracking your pr
 ![Uploading .csv File](image/upload.png)
 
 ## Student Record
+
 ![Student Record](<image/Student record.png>)
 
 ## Student Editing & Deleting
 we can Edit the marks or name of the student.And also delete the student Record.
+
 ![Editing & deleting](<image\edit and delete.png>)
 
 ## Data Analysis
+
 ![Data Analysis](<image\data analysis.png>)
 
 ## Visuaization
+
 ![Top N student in each subject](<image\Top N.png>)
+
 ![Highest marks in each Subjects](<image\linegraph.png>)
+
 ![Average marks for each subjects](<image\donut chart.png>)
 
 ## 🧑‍💻 Step-by-Step Project Setup
