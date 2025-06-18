@@ -37,7 +37,7 @@ Whether you're a teacher managing multiple classes or a student tracking your pr
 ## 🖼️ Dashboard Preview
 
 
-![Dashboard Preview](image\frontpage.png)
+![Dashboard Preview](image/frontpage.png)
 
 ## Uploading .csv File
  The input can done by manual entry or importing .csv File.
@@ -54,23 +54,23 @@ Whether you're a teacher managing multiple classes or a student tracking your pr
 we can Edit the marks or name of the student.And also delete the student Record.
 
 
-![Editing & deleting](image\edit_and_delete.png)
+![Editing & deleting](image/edit_and_delete.png)
 
 ## Data Analysis
 
 
-![Data Analysis](image\data_analysis.png)
+![Data Analysis](image/data_analysis.png)
 
 ## Visuaization
 
 
-![Top N student in each subject](image\Top_N.png)
+![Top N student in each subject](image/Top_N.png)
 
 
-![Highest marks in each Subjects](image\linegraph.png)
+![Highest marks in each Subjects](image/linegraph.png)
 
 
-![Average marks for each subjects](image\donut_chart.png)
+![Average marks for each subjects](image/donut_chart.png)
 
 ## 🧑‍💻 Step-by-Step Project Setup
 
